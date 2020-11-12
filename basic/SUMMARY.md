@@ -1,4 +1,4 @@
-# Section Group
+# Basic Group
 
 * [colours](./colours.md)
 * [grid-system](./grid-system.md)

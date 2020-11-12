@@ -1,4 +1,4 @@
-# Section Group
+# Components Group
 
 * [ad](./ad.md)
 * [animatearrow](./animatearrow.md)

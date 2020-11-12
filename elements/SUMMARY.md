@@ -1,4 +1,4 @@
-# Section Group
+# Element Group
 
 * [button](./button.md)
 * [icon](./icon.md)

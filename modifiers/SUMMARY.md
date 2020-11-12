@@ -1,4 +1,4 @@
-# Section Group
+# Modifier Group
 
 * [color-helpers](./color-helpers.md)
 * [responsive-helpers](./responsive-helpers.md)

@@ -1,4 +1,4 @@
-# Section Group
+# Form Group
 
 * [formsy](./formsy.md)
 * [input](./input.md)

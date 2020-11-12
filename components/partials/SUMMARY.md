@@ -1,4 +1,4 @@
-# Section Group
+# Partials Group
 
 * [banner](./banner.md)
 * [card](./card.md)
